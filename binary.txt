@@ -3,7 +3,6 @@ You have been given an array A consisting of N integers. All the elements in thi
 Note: It is guaranteed that all the elements in this array are unique and for each x belonging to a query, value x shall exist in the array
 
 #include <iostream>
-#include <algorithm>
 using namespace std;
 int binary(long long A[], int low, int high, long long key);
 int main()
